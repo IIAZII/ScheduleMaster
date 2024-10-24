@@ -1,6 +1,6 @@
 # ScheduleMaster - Organize Your Day with Ease
 
-**ScheduleMaster** is an intuitive and user-friendly application designed to help users manage their daily schedules, set reminders, and prioritize tasks. ScheduleMaster ensures that you stay on top of your commitments while providing insightful analytics on your time management.
+**ScheduleMaster** t is an easy-to-use application designed to help users organize their daily schedules
 
 ---
 
@@ -61,9 +61,9 @@ ScheduleMaster allows you to collaborate with others on shared tasks and schedul
 
 | Collaboration Method | Description                                   | Communication Tools       |
 |----------------------|-----------------------------------------------|---------------------------|
-| **Shared Calendars**  | Share your calendar with family members or colleagues.| In-app notifications, email alerts |
-| **Team Tasks**        | Collaborate on tasks with project teams.     | Direct messaging           |
-| **Event Invitations** | Send and receive invitations for meetings or events| Email notifications       |
+| **Shared Calendars**  | Share your calendar with your friends | In-app notifications, email alerts |
+| **Team Tasks**        | Collaborate on tasks with teams.     | Direct messaging           |
+| **Event Invitations** | Send and receive invitations for meetings | Email notifications       |
 
 ### Reporting
 
@@ -71,12 +71,12 @@ ScheduleMaster provides detailed reports on your time management. Below is an ex
 
 ```json
 {
-  "week": "Week of October 20",
-  "total_tasks": 25,
-  "completed_tasks": 18,
-  "pending_tasks": 7,
+  "week": "Week of December 20",
+  "total_tasks": 20,
+  "completed_tasks": 14,
+  "pending_tasks": 6,
   "tasks": [
-    {"name": "Project Meeting", "due_date": "2024-10-22", "status": "completed"},
-    {"name": "Grocery Shopping", "due_date": "2024-10-21", "status": "pending"}
+    {"name": "Project Meeting", "due_date": "2024-10-24", "status": "completed"},
+    {"name": "Finish an assignment", "due_date": "2024-10-27", "status": "pending"}
   ]
 }
