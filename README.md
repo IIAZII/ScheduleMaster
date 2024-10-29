@@ -8,8 +8,8 @@
 
 - **Task Management**: Easily add, edit, and categorize your daily tasks for better organization.
 - **Reminders**: Set timely reminders for tasks, appointments, and important deadlines.
-- **Calendar Integration**: Sync with your existing calendar apps to manage all your events in one place.
-- **Daily Planner**: View your daily schedule at a glance and plan your day efficiently.
+- **Calendar Integration**: Sync with your calendar on your phone  to manage all your appointments in one place.
+- **Daily Planner**: look at your daily schedule  and plan your day efficiently.
 - **Analytics**: Generate reports to analyze how you spend your time and optimize your productivity.
 
 ---
@@ -50,7 +50,7 @@
 
 Follow these steps to create a daily schedule in ScheduleMaster:
 
-- [ ] **Add tasks**: Input tasks and assign them to specific time slots.
+- [ ] **Add tasks**: Input tasks and assign them to time slot
 - [ ] **Prioritize**: Set priority levels for each task to focus on what’s important.
 - [ ] **Set reminders**: Choose reminder times for tasks to ensure you stay on track.
 - [ ] **Review schedule**: Regularly review and adjust your schedule based on completed tasks and upcoming deadlines.
@@ -61,22 +61,10 @@ ScheduleMaster allows you to collaborate with others on shared tasks and schedul
 
 | Collaboration Method | Description                                   | Communication Tools       |
 |----------------------|-----------------------------------------------|---------------------------|
-| **Shared Calendars**  | Share your calendar with your friends | In-app notifications, email alerts |
-| **Team Tasks**        | Collaborate on tasks with teams.     | Direct messaging           |
-| **Event Invitations** | Send and receive invitations for meetings | Email notifications       |
+| **Shared Calendars**  | Share your calendar with any peson you need | In-phone notifications, email alerts |
+| **Team Tasks**        | Collaborate on tasks with teams.     | Direct messaging or call          |
+| **Event Invitations** | Send and receive invitations for meetings | Email notifications or sms     |
 
-### Reporting
 
-ScheduleMaster provides detailed reports on your time management. Below is an example of a weekly report in JSON format:
 
-```json
-{
-  "week": "Week of December 20",
-  "total_tasks": 20,
-  "completed_tasks": 14,
-  "pending_tasks": 6,
-  "tasks": [
-    {"name": "Project Meeting", "due_date": "2024-10-24", "status": "completed"},
-    {"name": "Finish an assignment", "due_date": "2024-10-27", "status": "pending"}
-  ]
-}
+
