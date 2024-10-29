@@ -65,6 +65,20 @@ ScheduleMaster allows you to collaborate with others on shared tasks and schedul
 | **Team Tasks**        | Collaborate on tasks with teams.     | Direct messaging or call          |
 | **Event Invitations** | Send and receive invitations for meetings | Email notifications or sms     |
 
+### Reporting
 
+ScheduleMaster provides detailed reports on your time management. Below is an example of a weekly report in JSON format:
+
+```json
+{
+  "week": "Week of December 20",
+  "total_tasks": 20,
+  "completed_tasks": 14,
+  "pending_tasks": 6,
+  "tasks": [
+    {"name": "Project Meeting", "due_date": "2024-10-24", "status": "completed"},
+    {"name": "Finish an assignment", "due_date": "2024-10-27", "status": "pending"}
+  ]
+}
 
 
