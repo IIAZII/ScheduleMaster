@@ -1,3 +1,4 @@
+![تنزيل](https://github.com/user-attachments/assets/3dcf40d3-54cf-486b-a531-ccbc307a0d4c)
 # ScheduleMaster - Organize Your Day with Ease
 
 **ScheduleMaster** t is an easy-to-use application designed to help users organize their daily schedules
